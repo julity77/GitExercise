@@ -7,6 +7,7 @@ we mix it with some salt
 we mix it with some oil
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is where tommy started
 we mix sand
 we mix water
@@ -20,3 +21,9 @@ we add hot mint
 we add hot cheese
  
 >>>>>>> perry
+=======
+This is jerry info
+we mix stone 
+we mix grass 
+we mix coal 
+>>>>>>> jerry
