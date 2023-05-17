@@ -25,5 +25,10 @@ we add hot cheese
 This is jerry info
 we mix stone 
 we mix grass 
+<<<<<<< HEAD
 we mix coal 
+>>>>>>> jerry
+=======
+we mix coal
+this the last line 
 >>>>>>> jerry
