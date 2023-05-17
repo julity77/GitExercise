@@ -6,8 +6,17 @@ we mix it with some water
 we mix it with some salt 
 we mix it with some oil
 
+<<<<<<< HEAD
 This is where tommy started
 we mix sand
 we mix water
 we mix olive oil
 we mix the palm oil 
+=======
+This is where perry started
+we add hot peper
+we add hot gum
+we add hot mint
+we add hot cheese
+ 
+>>>>>>> perry
